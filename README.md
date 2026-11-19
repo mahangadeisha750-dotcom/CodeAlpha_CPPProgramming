@@ -1,6 +1,5 @@
 # CodeAlpha_CPPProgramming
 C++ Programming Internship Projects – CodeAlpha
-CodeAlpha C++ Programming Internship
 
 About
 
